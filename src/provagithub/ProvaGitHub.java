@@ -16,6 +16,7 @@ public class ProvaGitHub {
      */
     public static void main(String[] args) {
         double i=0;
+        String j = "prova";
     while(true){
         System.out.println("ciao: "+i); 
         i++;
